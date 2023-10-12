@@ -6,6 +6,8 @@ This module contains several functions to read different types of values from us
 
 Use the following command to install the InputReader module:
 
+```pip install https://github.com/Ezeqel-RE/InputReader/blob/5852c995b8eb8b2b0999f566c04e937cd332a043/dist/input_reader-0.0.1-py3-none-any.whl ```
+
 
 
 ## Usage
