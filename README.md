@@ -16,7 +16,7 @@ or
 Here are some examples of using the functions from the input reader module:
 
 ```python
-from input_reader.inputr import readFloat, readInt, readStr, readChar, readBool, readFile, readInputList
+from input_reader.inputr import readFloat, readInt, readStr, readChar, readBool, readFile, readInputList,readList
 
 # Read a float
 value = readFloat("Enter a decimal number: ")
