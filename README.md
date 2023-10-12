@@ -5,7 +5,7 @@ This module contains several functions to read different types of values from us
 ## Installation
 
 Use the following command to install the InputReader module:
-``` pip install input_reader ```
+
 
 
 ## Usage
